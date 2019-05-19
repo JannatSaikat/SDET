@@ -14,5 +14,6 @@ public class Calculation {
     void sum() {
         int d = a + b + c;
         System.out.println(d);
+        System.out.println("new thing");
     }
 }
